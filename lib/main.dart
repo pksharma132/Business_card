@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
                       'https://lokeshdhakar.com/projects/lightbox2/images/image-5.jpg'),
                 ),
                 Text(
-                  'Purushothaman U',
+                  'Name',
                   style: TextStyle(
                       fontSize: 40.0,
                       fontWeight: FontWeight.bold,
@@ -28,7 +28,7 @@ class MyApp extends StatelessWidget {
                       color: Colors.white),
                 ),
                 Text(
-                  'A noob flutter dev',
+                  'Description',
                   style: TextStyle(
                       fontFamily: 'Handlee',
                       fontSize: 20.0,
@@ -53,7 +53,7 @@ class MyApp extends StatelessWidget {
                           color: Colors.teal,
                         ),
                         title: Text(
-                          '+91 8825718924',
+                          'phone number',
                           style: TextStyle(),
                         ),
                       )),
@@ -69,7 +69,7 @@ class MyApp extends StatelessWidget {
                         Icons.email,
                         color: Colors.teal,
                       ),
-                      title: Text('pksharma66558@gmail.com'),
+                      title: Text('email id'),
                     ),
                   ),
                 ),
